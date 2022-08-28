@@ -1,4 +1,4 @@
-# Asyncronous PEP parser projet
+# Asyncronous PEP parser project
 
 [PEP documents](https://www.peps.python.org/) parser based on Scrapy 
 framework.
